@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlacesApiAutocomplete</string>
+    <string name="action_settings">Settings</string>
+</resources>
